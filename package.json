@@ -1,0 +1,20 @@
+{
+  "name": "reactweb1",
+  "version": "0.1.0",
+  "description": "Relearning web 1 but with react",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Doncurt/reactweb1.git"
+  },
+  "author": "“Donovan <donovan.adams@students.makeschool.com> (https://www.makeschool.com/portfolio/Donovan-Adams)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Doncurt/reactweb1/issues"
+  },
+  "homepage": "https://github.com/Doncurt/reactweb1#readme"
+}
